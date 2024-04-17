@@ -1,24 +1,15 @@
-# README
+# Nagano-Cake(学習用)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## アプリ概要
 
-Things you may want to cover:
+Rails学習用
 
-* Ruby version
+## 開発環境
 
-* System dependencies
+- OS:Linux(CentOS)
 
-* Configuration
+- 言語:HTML,CSS,JavaScript,Ruby,SQL
 
-* Database creation
+- フレームワーク:Ruby on Rails 6.1.7.7
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- IDE:Cloud9
